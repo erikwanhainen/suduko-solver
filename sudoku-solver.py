@@ -1,8 +1,6 @@
 ## Sudoku Solver
 
 import numpy as np
-import math
-import matplotlib.pyplot as plt
 
 grid  = [[0, 0, 0, 9, 0, 2, 7, 0, 0],
          [0, 5, 0, 0, 4, 0, 0, 0, 0],
